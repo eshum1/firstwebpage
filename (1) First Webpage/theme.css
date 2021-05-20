@@ -1,0 +1,72 @@
+body{
+	background-color: black;
+	background-image: url(images/palmgolf.jpg);
+	background-attachment; fixed;
+	background-repeat: fixed;
+	background-size: cover;
+}
+
+h1 {
+	font-family: Calibri;
+	color: black;
+	text-align: center;
+}
+
+p{
+	font-family: Calibri;
+	line-height: 1.5em;
+	text-indent: 45px;
+	margin-bottom: 30px;
+	margin-left: 15px;
+	margin-right: 15px;
+	color: white
+}
+
+h3{
+	font-family: Calibri;
+	color: black;
+	text-align: center;
+}
+
+ol{
+	font-family: Calibri;
+	color: white;
+	font-size: 16pt;
+}
+
+ul{
+	font-family: Calibri;
+	color: white;
+	font-size: 16pt;
+}
+
+iframe{
+	border: 5px solid white;
+	box-shadow: 10px 10px 20px black;
+}
+
+div{
+	background-color: rgba(161,161,161,0.5);
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	border: 5px solid white;
+}
+
+a:link{
+}
+
+a:visited{
+}
+
+a:hover{
+}
+
+a:active{
+}
+
+img{
+	border: 5px solid white;
+	box-shadow: 10px 10px 20px black;
+	
